@@ -1,6 +1,3 @@
-# python setup.py build_ext --inplace
-
-
 import datetime
 from sentence_transformers import SentenceTransformer
 from temporal_clustering import temporal_cluster
