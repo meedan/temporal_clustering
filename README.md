@@ -14,9 +14,9 @@ A minimal example is in `examples/example.py`
 ```
 $ cd examples && python example.py 
 
-[0, 0, 1, 1]
+[0, 0, 1, 1, 1]
 ```
 
-The output shows that the first two items form one cluster (cluster 0) and the last two items form another cluster (cluster 1)
+The output shows that the first two items form one cluster (cluster 0) and the last three items form another cluster (cluster 1)
 
 
